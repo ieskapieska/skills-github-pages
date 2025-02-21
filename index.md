@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-<p style="font:Impact;">Hello world!</p>
+<p><font=Impact>Hello world!</font></p>
