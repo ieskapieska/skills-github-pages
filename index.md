@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-<p><font face="Impact">Hello world!</font></p>
+   <font face = "Comic sans MS" size =" 50">Hello world!</font><br />
